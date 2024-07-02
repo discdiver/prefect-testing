@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/PrefectHQ/prefect-collection-template",
+  "commit": "008e0473a06186c9608d26f6288810f46d4509e2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Jeff Hale",
+      "email": "jeffmshale@gmail.com",
+      "github_organization": "discdiver",
+      "collection_name": "prefect-testing",
+      "collection_slug": "prefect_testing",
+      "collection_short_description": "Testing the template",
+      "_copy_without_render": [
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/PrefectHQ/prefect-collection-template"
+    }
+  },
+  "directory": null
+}
